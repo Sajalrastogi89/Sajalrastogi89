@@ -87,15 +87,10 @@
   </div>
 
 
-# My Profile
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajalrastogi89&show_icons=true)](https://github.com/Sajalrastogi89)
 
-My Contributions:
 
-[![My GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Sajalrastogi89)](https://github.com/Sajalrastogi89)
+![GitHub Contributions Graph](https://github.com/Sajalrastogi89/Sajalrastogi89/graphs/contributors)
 
-Snake Eating Contributions:
 
-<img src="https://github.com/Sajalrastogi89/Sajalrastogi89/blob/output/github-contribution-grid-snake.gif" alt="Snake Eating Contributions">
 
