@@ -63,13 +63,10 @@
   </a>
 </div>
 
-###
-<br />
-### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Sajalrastogi89.visitor-badge&left_color=blue&right_color=yellow)
-<br />
 
-[![Sajal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sajalrastogi89&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/Sajalrastogi89/github-readme-activity-graph)
+
+
+
 
 
 
