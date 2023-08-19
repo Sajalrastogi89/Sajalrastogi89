@@ -63,9 +63,19 @@
   </a>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sajalrastogi89&show_icons=true&locale=en&layout=compact" alt="Sajalrastogi89" /></p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sajalrastogi89&show_icons=true&locale=en" alt="Sajalrastogi89" /></p>
+  <div style="flex-basis: 30%;">
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sajalrastogi89&show_icons=true&locale=en&layout=compact" alt="Sajalrastogi89" /></p>
+  </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sajalrastogi89&" alt="Sajalrastogi89" /></p>
+  <div style="flex-basis: 30%;">
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sajalrastogi89&show_icons=true&locale=en" alt="Sajalrastogi89" /></p>
+  </div>
+
+  <div style="flex-basis: 30%;">
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sajalrastogi89&" alt="Sajalrastogi89" /></p>
+  </div>
+
+</div>
 </h3>
