@@ -2,7 +2,9 @@
 
 ###
 
-<img align="right" height="250" style="border-radius: 50%;" src="https://lifeboat.com/blog.images/major-computing-breakthrough-copenhagen-researchers-can-now-achieve-quantum-advantage.gif" alt="Rounded Image">
+<div style="display: inline-block; border-radius: 50%;">
+    <img align="right" height="250" src="https://lifeboat.com/blog.images/major-computing-breakthrough-copenhagen-researchers-can-now-achieve-quantum-advantage.gif" alt="Rounded Image">
+</div>
 
 ###
 
