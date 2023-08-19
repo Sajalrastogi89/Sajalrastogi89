@@ -1,8 +1,8 @@
-name: Generate snake game
+name: Generate snake game v2
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 0/12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,13 +11,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Sutil/snk@master
-        id: snake-gif
+      - uses: Platane/snk@v2
         with:
+          # github user name to read the contribution graph from (**required**)
+          # using action context var `github.repository_owner` or specified user
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake2.svg
-          snake_color: 'blue'
 
+          # list of files to generate.
+          # one file per line. Each output can be customized with options as query string.
+          #
+          #  supported options:
+          #  - palette:     A preset of color, one of [github, github-dark, github-light]
+          #  - color_snake: Color of the snake
+          #  - color_dots:  Coma separated list of dots color.
+          #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+          #                 Exactly 5 colors are expected.
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?color_snake=orange&color_dots=#575757,#74cc8f,#44a662,#228240,#065e21
+            dist/ocean.svg?color_snake=orange&color_dots=rgba(191,214,246,0.2),#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
