@@ -2,8 +2,8 @@
 
 ###
 
-<div style="display: inline-block; border-radius: 50;">
-    <img align="right" height="250" src="QuantumAnimation.gif" alt="Rounded Image">
+<div style="display: inline-block; border-radius: 50%;">
+    <img align="right" height="250" src="QuantumAnimation.gif" alt="Rounded Image" style="display: block;">
 </div>
 
 ###
