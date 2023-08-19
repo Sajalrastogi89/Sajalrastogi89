@@ -3,7 +3,7 @@
 ###
 
 <div style="display: inline-block; border-radius: 50%;">
-    <img align="right" height="250" src="https://lifeboat.com/blog.images/major-computing-breakthrough-copenhagen-researchers-can-now-achieve-quantum-advantage.gif" alt="Rounded Image">
+    <img align="right" height="250" src="QuantumAnimation.gif" alt="Rounded Image">
 </div>
 
 ###
