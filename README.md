@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="250" margin-right= 150px src="https://lifeboat.com/blog.images/major-computing-breakthrough-copenhagen-researchers-can-now-achieve-quantum-advantage.gif"  />
+<img align="right" height="250" border-radius=50% src="https://lifeboat.com/blog.images/major-computing-breakthrough-copenhagen-researchers-can-now-achieve-quantum-advantage.gif"  />
 
 ###
 
