@@ -86,5 +86,5 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sajalrastogi89&" alt="Sajalrastogi89" /></p>
   </div>
 
-![Snake Eating Contributions](https://github.com/Sajalrastogi89/Sajalrastogi89/blob/output/github-contribution-grid-snake-dark.svg)
+
 
