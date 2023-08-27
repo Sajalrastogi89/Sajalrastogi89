@@ -1,4 +1,4 @@
-<h2 align="left">Hi <img src="Wave.gif" height="55px" width="55px">! My name is Sajal Rastogi.</h2
+<h2 align="left">Hi <img src="Wave.gif" height="55px" width="55px">! My name is Sajal Rastogi.</h2>
 
 
 <div style="display: inline-block; border-radius: 50%;">
