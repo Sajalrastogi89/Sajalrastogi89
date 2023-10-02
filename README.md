@@ -71,7 +71,7 @@
     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sajalrastogi89&show_icons=true&locale=en" alt="Sajalrastogi89" /></p>
   </div>
 
- 
+
   <div style="flex-basis: 30%;">
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sajalrastogi89&" alt="Sajalrastogi89" /></p>
   </div>
