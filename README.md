@@ -20,6 +20,7 @@
      <div style="flex-basis: 30%;">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sajalrastogi89&show_icons=true&locale=en&layout=compact" alt="Sajalrastogi89" /></p>
   </div> 
+  <br>
  <div style="flex-basis: 30%;">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Sajalrastogi89&show_icons=true&locale=en" alt="Sajalrastogi89" /></p>
   </div>
