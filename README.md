@@ -24,12 +24,8 @@
   <div style="flex-basis: 30%;">
     <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sajalrastogi89&" alt="Sajalrastogi89" /></p>
   </div>
-  <div>
-       
-![](https://api.visitorbadge.io/api/VisitorHit?user=Sajalrastogi89&repo=Sajalrastogi89&countColor=%237B1E7A)
-
-  </div>
   </div>
   
+  ![](https://api.visitorbadge.io/api/VisitorHit?user=Sajalrastogi89&repo=Sajalrastogi89&countColor=%237B1E7A)
 ![Snake Eating Contributions](https://github.com/Sajalrastogi89/Sajalrastogi89/blob/output/github-contribution-grid-snake-dark.svg)
 
